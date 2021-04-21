@@ -12,4 +12,5 @@ main.html
 subpage01.html
 subpage02.html
 community.html
+gallery.html
 location.html
